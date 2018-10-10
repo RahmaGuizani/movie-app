@@ -1,0 +1,58 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.image-video {
+  width: 50vw;
+  height: 50vw;
+  margin-left: 5vw;
+  margin-top: 8vw;
+}
+.title-video {
+  text-align: center;
+}
+.newsitem-container {
+  margin-top: 20vw;
+  border: 1px solid gray;
+  border-radius: 10px;
+  width: 60vw;
+  height: 60vw;
+  margin-left: 20vw;
+}
+.header-input {
+  border: 1px solid gray;
+  border-radius: 0px;
+  margin-left: 20vw;
+  margin-top: 15vw;
+  height: 5vw;
+  width: 60vw;
+}
+.bouttom {
+  font-size: 4vw;
+  position: absolute;
+  margin-top: 14.8vw;
+  background-color: transparent;
+}
+.star-video {
+  font-size: 5vw;
+  position: absolute;
+  margin-top: -65vw;
+  margin-left: 36vw;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 1px;
+  width: 22vw;
+}
+.rating-filter {
+  position: relative;
+  margin-top: -430vw;
+  margin-left: 38vw;
+  font-size: 5vw;
+}
+.bouttom-add {
+  position: relative;
+  margin-top: 20vw;
+  margin-left: 40vw;
+  font-size: 8vw;
+  width: 15%;
+}
